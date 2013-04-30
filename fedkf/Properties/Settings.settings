@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="fedkf.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SensorsCount" Type="System.UInt16" Scope="Application">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="NumOrder" Type="System.UInt16" Scope="Application">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="DenOrder" Type="System.UInt16" Scope="Application">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="DCMFilePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Data\dcm.txt</Value>
+    </Setting>
+    <Setting Name="NoisesFilePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Data\noises.txt</Value>
+    </Setting>
+    <Setting Name="SignalsFilePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Data\signals.txt</Value>
+    </Setting>
+    <Setting Name="ProcCovFilePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Data\pcov.txt</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
